@@ -16,5 +16,5 @@ A Roblox script that has everything you are looking for.
 
 # 🏮 Legacy Script
 ```lua
-hi
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EgeLua/Legacy/refs/heads/main/Script.lua'))()
 ```
